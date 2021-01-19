@@ -6,8 +6,10 @@ namespace Dag2
     {
         static void Main(string[] args)
         {
-            int heltal = 10;
-            Console.WriteLine(heltal);
+            int num = 10;
+            Console.WriteLine(num);
+
+            Console.WriteLine("Github");
         }
     }
 }
