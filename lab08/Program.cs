@@ -44,6 +44,7 @@ namespace lab08
                 Console.WriteLine($"The hottest city is {citysWithHighestTemp.First().Name}");
             }
             else
+            //Test
             {
 
             Console.WriteLine("There are at least two citys with the hottest temp, here they are:");
